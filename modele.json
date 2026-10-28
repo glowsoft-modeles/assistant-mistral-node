@@ -1,0 +1,7 @@
+{
+  "id": "assistant-mistral-node",
+  "nom": "Assistant conversationnel avec Mistral",
+  "cadriciel": "node",
+  "categorie": "integration",
+  "variables": ["MISTRAL_API_KEY", "MISTRAL_MODELE"]
+}
